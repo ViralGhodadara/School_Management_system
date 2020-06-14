@@ -273,6 +273,11 @@
               <a href="#login">LOG IN</a>
             </p>
           </li>
+          <li>
+            <p>
+              <a href="https://github.com/ViralGhodadara/School_Management_system">DOWNLOAD SOURCE CODE FOR GITHUB</a>
+            </p>
+          </li>
         </ul>
 
       </div>

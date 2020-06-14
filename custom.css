@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin-top: 5%;
+    height: 500px;
+    width: 100%;
+    margin-top: -20px;
+}
+.link-font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+    background-color: rgb(70, 125, 236);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title-login{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.feedback{
+    margin-left: 7%;
+    height: 350px;
+    width: 85%;
+    background-color: rgb(223, 212, 212);
+}
+.title-feedback{
+    font-family: verdana;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+label{
+    font-family: Verdana;
+    font-size: 20px;
+    color: black;
+    margin-left: 20%;
+}
+.input{
+    width: 30%;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.textarea-box{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.btn-feedback{
+    margin-left: 20%;
+    background-color: rgb(70, 125, 236);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

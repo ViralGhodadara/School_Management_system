@@ -1,0 +1,130 @@
+.sty{
+    font-family: verdana;
+}
+        .title{
+            font-family: verdana;
+            margin-top: -0.09px;
+            text-align: center;
+            background-color: brown;
+            color: white;
+            font-style: italic;
+            padding: 10px;
+        }
+        .containerHome{
+            height: 40%;
+            width: 75%;
+            background-color: #d0c9c9;
+            margin-left: 110px;
+        }
+        label{
+            font-family: verdana;
+        }
+        .para{
+            margin-left: 12%;
+            font-family: verdana;
+            padding: 10px;
+            font-size: 15px;
+        }
+        .up-btn{
+            background-color: rgb(70, 125, 236);
+            color: white;
+            margin-left: 13.3%;
+        }
+        .btn{
+            height: 32px;
+            background-color: rgb(70, 125, 236);
+            color: white;
+            margin-left: 13.5%;
+            margin-top: 7px;
+            width: 129px;
+            font-family: verdana;
+            border: 2px solid;
+            border-radius: 8px;
+            border: 2px solid rgb(70, 125, 236);
+            margin-bottom: 10px;
+        }
+        .btn a{
+            font-family: verdana;
+            text-decoration: none;
+            color: white;
+        }
+        .addStudent-container{
+            height: 40%;
+            width: 75%;
+            background-color: #d0c9c9;
+            margin-left: 110px;
+        }
+        .se-opt{
+            font-family: verdana;
+            height: 20px;
+            width: 115px;
+            margin-left: 13.5%;
+        }
+        .box{
+            height: 27px;
+            width: 183px;
+            margin-left: 13.5%;
+            margin-bottom: 14px;
+        }
+        .txt-area{
+            margin-left: 13.5%;
+            margin-bottom: 10px;
+        }
+        .container-addTable{
+            height: 40%;
+            width: 75%;
+            background-color: #d0c9c9;
+            margin-left: 110px;
+        }
+        .btn-selectClass{
+            height: 25px;
+            background-color: rgb(70, 125, 236);
+            color: white;
+            margin-left: 10px;
+            margin-top: 7px;
+            width: 90px;
+            font-family: verdana;
+            border: 2px solid rgb(70, 125, 236);
+            border-radius: 8px;
+            border: 2px solid rgb(70, 125, 236);
+            /* margin-bottom: 10px; */
+        }
+        .error{
+            font-family: verdana;
+            color: brown;
+        }
+        .container-studentReport{
+            height: 80%;
+            width: 90%;
+            background-color: #d0c9c9;
+            margin-left: 50px;
+        }
+        .btn-selectTableData{
+            height: 25px;
+            background-color: rgb(70, 125, 236);
+            color: white;
+            margin-left: 13.5%;
+            margin-top: 14.5px;
+            width: 90px;
+            font-family: verdana;
+            border: 2px solid;
+            border-radius: 8px;
+            border: 2px solid rgb(70, 125, 236);
+            margin-bottom: 10px;
+        }
+        .dataStu{
+            margin-top: 9px;
+            height: 30px;
+            width: 115px;
+        }
+        .container-attendance{
+            height: 40%;
+            width: 75%;
+            background-color: #d0c9c9;
+            margin-left: 110px;
+        }
+        .dateOfAtt{
+            margin-top: 14px;
+            margin-left: 103px;
+        }
+        

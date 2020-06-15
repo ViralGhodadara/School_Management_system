@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin-top: 5%;
+    height: 500px;
+    width: 100%;
+    margin-top: -20px;
+}
+.link-font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.btn{
+    background-color: rgb(70, 125, 236);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title-login{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.feedback{
+    margin-left: 7%;
+    height: 350px;
+    width: 85%;
+    background-color: rgb(223, 212, 212);
+}
+.title-feedback{
+    font-family: verdana;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+label{
+    font-family: Verdana;
+    font-size: 20px;
+    color: black;
+    margin-left: 20%;
+}
+.input{
+    width: 30%;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.textarea-box{
+    margin-left: 20%;
+    margin-top: 10px;
+}
+.btn-feedback{
+    margin-left: 20%;
+    background-color: rgb(70, 125, 236);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    .cards-container{
+      background-color: #f1dede;
+      width: 85%;
+      margin-left: 90px;
+      /* height: 50%; */
+      padding-bottom: 30px;
+    }
+    .title{
+      text-align: center;
+      font-family: verdana;
+      font-size: 35px;
+      padding-top: 23px;
+      color: brown;
+    }
+    .cards{
+      height: 343px;
+      border-radius: 20px;
+      width: 320px;
+      display: inline-block;
+      margin-left: 45px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      padding: 16px;
+      text-align: center;
+      background-color: #f1f1f1;
+    }
+    .teacherNm{
+      color: #9e6969;
+      font-family: verdana;
+      text-align: center;
+      margin-top: -4px;
+      background-color: #dcd7d7;
+      padding: 4%;
+      border-radius: 20px;
+    }
+    .para{
+      font-family: verdana;
+      font-size: 15px;
+      margin: 0px;
+      padding: 0px;
+      display: flex;
+      text-align: justify;
+      text-justify: inter-word;
+    }
+    .lb{
+      font-family: verdana;
+      font-size: 20px;
+      font-weight: 500;
+    }
+    .input-box{
+      height: 33px;
+      width: 370px;
+      font-family: verdana;
+      margin-bottom: 20px;
+    }
+    .textarea-contactUs{
+      margin-left: 269px;
+      font-family: verdana;
+    }
+    .btn-contactUs{
+      margin-left: 100px;
+    }
